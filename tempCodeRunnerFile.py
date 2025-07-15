@@ -1,0 +1,1 @@
+ if col in df.columns and df[col].nunique() >
